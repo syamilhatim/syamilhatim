@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syamilhatim
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning python, SQL andTtableau
+- 🌱 I’m currently learning python, SQL and Tableau
 - 📫 How to reach me syamilhatimmz@gmail.com
 
 <!---
